@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial Intelligence ..
 - 🌱 I’m currently learning all possible languages ..
 - 💞️ I’m looking to collaborate on everything ..
-- 📫 How to reach me visit www.dejankirov.com/contact.html ..
+- 📫 How to reach me www.dejankirov.com/contact.html ..
 
 <!---
 kirovd/kirovd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
