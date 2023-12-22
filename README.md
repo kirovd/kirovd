@@ -6,7 +6,7 @@
 
 - 💞️ Collaboration Interests: Eager to collaborate on diverse projects in AI and ML. Open to both academic research and industry projects, especially those that push the boundaries of what's possible with AI.
 
-- 🛠️ Technical Proficiency: Proficient in Python, TensorFlow, PyTorch, Hadoop, R, PHP, Laravel, JavaScript, jQuery, HTML/CSS/Bootstrap, Angular, TypeScript, React and MySQL/SQL. Experienced in using cloud platforms like Google, AWS and Azure for deploying ML models.
+- 🛠️ Technical Proficiency: Proficient in Python, TensorFlow, PyTorch, Hadoop, R, PHP, Laravel, JavaScript, jQuery, HTML/CSS/Bootstrap, C#, Angular, TypeScript, React and MySQL/SQL. Experienced in using cloud platforms like Google, AWS and Azure for deploying ML models.
 
 - 🎓 Educational Background: Holding a Masters degree in Data Science with a specialization in Machine Learning and AI. Continuously pursuing online courses and certifications to stay updated with the latest trends in AI.
 
