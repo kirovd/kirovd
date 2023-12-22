@@ -14,10 +14,10 @@
 
 - 🔧 Soft Skills: Strong in problem-solving, analytical thinking, and effective communication. Enjoys working in diverse teams and possesses strong project management skills.
 
-- 📬 Contact Information: Reach out to me at https://www.dejankirov.com/contact.html for collaborations, discussions, or networking opportunities.
-
 - 🚀 Future Aspirations: Aspiring to lead AI projects that can have a real-world impact, particularly in sustainable development and healthcare innovation.
 
+- 📬 Contact Information: Reach out to me at https://www.dejankirov.com/contact.html for collaborations, discussions, or networking opportunities.
+  
 <!---
 kirovd/kirovd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
