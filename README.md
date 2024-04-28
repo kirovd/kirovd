@@ -16,7 +16,7 @@
 
 - 🚀 Future Aspirations: Aspiring to lead AI projects that can have a real-world impact, particularly in sustainable development and healthcare innovation.
 
-- 📬 Contact Information: Reach out to me at https://www.dejankirov.com/contact.html for collaborations, discussions, or networking opportunities.
+- 📬 Contact Information: Reach out to me at https://www.dejankirov.com/#contact for collaborations, discussions, or networking opportunities.
   
 <!---
 kirovd/kirovd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
